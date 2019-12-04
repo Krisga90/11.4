@@ -1,0 +1,1 @@
+Time object: add and substract two times, multiply time with some variable
